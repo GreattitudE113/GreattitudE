@@ -1,2 +1,0 @@
-# GreattitudE
-Beginner Web Programming
